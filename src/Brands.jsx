@@ -9,12 +9,11 @@ const Brands = () => {
             <div className="brand-outer">
                 <div className="container">
                     <div className="brand-inner">
-
-                        <Brand_props img={"images File/Jewelryimg31.jpg"} />
-                        <Brand_props img={"images File/Jewelryimg29.jpg"} />
-                        <Brand_props img={"images File/Jewelryimg30.jpg"} />
-                        <Brand_props img={"images File/Jewelryimg32.jpg"} />
-                        <Brand_props img={"images File/Jewelryimg29.jpg"} />
+                        <Brand_props img={"/Images File/Jewelryimg31.jpg"} />
+                        <Brand_props img={"/Images File/Jewelryimg29.jpg"} />
+                        <Brand_props img={"/Images File/Jewelryimg30.jpg"} />
+                        <Brand_props img={"/Images File/Jewelryimg32.jpg"} />
+                        <Brand_props img={"/Images File/Jewelryimg29.jpg"} />
                     </div>
                 </div>
             </div>

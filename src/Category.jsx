@@ -14,7 +14,7 @@ const Category = () => {
                     <div className="pramotion-inner">
                         <div className="pramotion-child1">
                             <div className="pramotion-img">
-                                <img src="images File/Jewelryimg3.jpg" alt="" />
+                                <img src="/Images File/Jewelryimg3.jpg" alt="" />
                                 <div className="text1">
                                     <a href="#">BRACELETS</a>
                                 </div>
@@ -24,7 +24,7 @@ const Category = () => {
                         
                         <div className="pramotion-child2">
                             <div className="pramotion-img1">
-                                <img src="images File/Jewelryimg4.jpg" alt="" />
+                                <img src="/Images File/Jewelryimg4.jpg" alt="" />
                                 <div className="text2">
                                     <a href="#">
 
@@ -39,7 +39,7 @@ const Category = () => {
 
                         <div className="pramotion-child3">
                             <div className="pramotion-img3">
-                                <img src="images File/Jewelryimg5.jpg" alt="" />
+                                <img src="/Images File/Jewelryimg5.jpg" alt="" />
                                 <div className="text3">
                                     <a href="#">
 
@@ -53,7 +53,7 @@ const Category = () => {
 
                         <div className="pramotion-child4">
                             <div className="pramotion-img4">
-                                <img src="images File/Jewelryimg6.jpg" alt="" />
+                                <img src="/Images File/Jewelryimg6.jpg" alt="" />
                                 <div className="text4">
                                     <a href="#">
                                         NACKLACES
@@ -66,7 +66,7 @@ const Category = () => {
 
                         <div className="pramotion-child5">
                             <div className="pramotion-img5">
-                                <img src="images File/Jewelryimg7.jpg" alt="" />
+                                <img src="/Images File/Jewelryimg7.jpg" alt="" />
                                 <div className="text5">
                                     <a href="#">
                                         RINGS

@@ -48,7 +48,7 @@ const Footer = () => {
 
                             <div className="footer-top-child4">
                                 <div className="footer-top-img1">
-                                    <img src="images File/logo.png" alt="" />
+                                    <img src="/Images File/logo.png" alt="" />
                                 </div>
                                 <div className="footer-top-text1">
 
@@ -78,10 +78,10 @@ const Footer = () => {
 
                             <div className="last-child2">
                                 <ul>
-                                    <li><a href="#"><img src="images File/Jewelryimg33.jpg" alt="" /></a></li>
-                                    <li><a href="#"><img src="images File/Jewelryimg34.jpg" alt="" /></a></li>
-                                    <li><a href="#"><img src="images File/Jewelryimg35.jpg" alt="" /></a></li>
-                                    <li><a href="#"><img src="images File/Jewelryimg36.jpg" alt="" /></a></li>
+                                    <li><a href="#"><img src="/Images File/Jewelryimg33.jpg" alt="" /></a></li>
+                                    <li><a href="#"><img src="/Images File/Jewelryimg34.jpg" alt="" /></a></li>
+                                    <li><a href="#"><img src="/Images File/Jewelryimg35.jpg" alt="" /></a></li>
+                                    <li><a href="#"><img src="/Images File/Jewelryimg36.jpg" alt="" /></a></li>
                                 </ul>
                             </div>
 

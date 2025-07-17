@@ -16,12 +16,12 @@ const Blog = () => {
                 
                         <div className="blog-child1">
                             <div className="blog-img1">
-                                <a href="#"><img src="images File/Jewelryimg26.jpg" alt="" /></a>
+                                <a href="#"><img src="/Images File/Jewelryimg26.jpg" alt="" /></a>
 
 
                             </div>
                             <div className="blog-img2">
-                                <img src="images File/Jewelryimg28.jpg" alt="" />
+                                <img src="/Images File/Jewelryimg28.jpg" alt="" />
                                     <div className="blog-text1">
                                         <span>December 2025</span>
                                         <h3> Consequuntur magni dolores 
@@ -34,7 +34,7 @@ const Blog = () => {
                     
                         <div className="blog-child2">
                             <div className="blog-img2">
-                                <img src="images File/Jewelryimg28.jpg" alt="" />
+                                <img src="/Images File/Jewelryimg28.jpg" alt="" />
                                     <div className="blog-text1">
                                         <span>January 2025</span>
                                         <h3>Eligendi optio cumque nihil magni
@@ -45,16 +45,16 @@ const Blog = () => {
                                     </div>
                             </div>
                             <div className="blog-img1">
-                                <a href=""><img src="images File/jewelryimg25.png" alt="" /></a>
+                                <a href=""><img src="/Images File/jewelryimg25.png" alt="" /></a>
                             </div>
                         </div>
                     
                         <div className="blog-child3">
                             <div className="blog-img1">
-                                <a href="#"><img src="images File/Jewelryimg27.jpg" alt="" /></a>
+                                <a href="#"><img src="/Images File/Jewelryimg27.jpg" alt="" /></a>
                             </div>
                             <div className="blog-img2">
-                                <img src="images File/Jewelryimg28.jpg" alt="" />
+                                <img src="/Images File/Jewelryimg28.jpg" alt="" />
                                     <div className="blog-text1">
                                         <span>Fabruary 2025</span>
                                         <h3>

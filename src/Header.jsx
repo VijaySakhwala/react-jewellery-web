@@ -38,7 +38,7 @@ const Header = () => {
 
                             <div className="data-child1">
                                 <div className="logo-img">
-                                    <img src="images File/logo.png" alt="" />
+                                    <img src="/Images File/logo.png" alt="" />
                                 </div>
                             </div>
 

@@ -11,7 +11,7 @@ const Service = () => {
 
                         <div className="service-child1">
                             <div className="service-img1">
-                                <img src="images File/jewelryimg8.png" alt="service" />
+                                <img src="/Images File/jewelryimg8.png" alt="service" />
                             </div>
                             <div className="text1">
                                 <p>
@@ -23,7 +23,7 @@ const Service = () => {
 
                         <div className="service-child2">
                             <div className="service-img2">
-                                <img src="images File/jewelryimg9.png" alt="service" />
+                                <img src="/Images File/jewelryimg9.png" alt="service" />
                             </div>
                             <div className="text1">
                                 <p>
@@ -34,7 +34,7 @@ const Service = () => {
 
                         <div className="service-child3">
                             <div className="service-img3">
-                                <img src="images File/jewelryimg10.png" alt="service" />
+                                <img src="/Images File/jewelryimg10.png" alt="service" />
                             </div>
                             <div className="text1">
                                 <p>

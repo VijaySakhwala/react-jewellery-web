@@ -10,7 +10,7 @@ return(
                      
                         <div className="desinger-child1">
                             <div className="desinger-img1">
-                                <img src="images File//jewelryimg16.png" alt="" />
+                                <img src="/Images File/jewelryimg16.png" alt="" />
                                     <div className="desinger-text1">
                                         <h5>Up to 20% OFF</h5>
                                         <h2>Awesome Earrings</h2>
@@ -23,16 +23,16 @@ return(
                             </div>
 
                             <div className="desinger-img2">
-                                <a href="#"><img src="images File/jewelryimg17.png" alt="" /></a>
+                                <a href="#"><img src="/Images File/jewelryimg17.png" alt="" /></a>
                             </div>
                         </div>
                        
                         <div className="desinger-child2">
                             <div className="desinger-img2">
-                                <a href="#"><img src="images File/jewelryimg18.png" alt="" /></a>
+                                <a href="#"><img src="/Images File/jewelryimg18.png" alt="" /></a>
                             </div>
                             <div className="desinger-img1">
-                                <img src="images File/jewelryimg16.png" alt="" />
+                                <img src="/Images File/jewelryimg16.png" alt="" />
                                     <div className="desinger-text1">
                                         <h5>Designer Collection</h5>
                                         <h2>Diamond Necklaces</h2>

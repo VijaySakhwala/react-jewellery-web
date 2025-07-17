@@ -11,7 +11,7 @@ const Comments = () => {
                       
                         <div className="review-child1">
                             <div className="review-img1">
-                                <img src="images File/jewelryimg24.png" alt="" />
+                                <img src="/Images File/jewelryimg24.png" alt="" />
                             </div>
                         </div>
                       

@@ -3,8 +3,8 @@ A modern and responsive React application for showcasing and shopping jewelry co
 
 ## Demo
 
-A live demo of the project is [Available Here](#https://react-jewellery-web.vercel.app/).
-
+A live demo of the project is [Available Here] :- [https://react-jewellery-web.vercel.app/
+](url)
 ## Features
 
 - Responsive design optimized for desktop, tablet, and mobile devices  

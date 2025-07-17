@@ -53,15 +53,15 @@ const Prodct_review = () => {
                             </div>
                             <div className="item-prodct">
 
-                                <Prodct_review_props img={"images File/jewelryimg22.png"} name="Occaecati cupiditate" price="$339.00" />
-                                <Prodct_review_props img={"images File/jewelryimg11.png"} name="Occaecati cupiditate" price="$339.00" />
-                                <Prodct_review_props img={"images File/jewelryimg12.png"} name="Occaecati cupiditate" price="$339.00" />
-                                <Prodct_review_props img={"images File/jewelryimg20.png"} name="Occaecati cupiditate" price="$339.00" />
-                                <Prodct_review_props img={"images File/jewelryimg21.png"} name="Occaecati cupiditate" price="$339.00" />
-                                <Prodct_review_props img={"images File/jewelryimg22.png"} name="Occaecati cupiditate" price="$339.00" />
-                                <Prodct_review_props img={"images File/jewelryimg23.png"} name="Occaecati cupiditate" price="$339.00" />
-                                <Prodct_review_props img={"images File/jewelryimg14.png"} name="Occaecati cupiditate" price="$339.00" />
-                                <Prodct_review_props img={"images File/jewelryimg19.png"} name="Occaecati cupiditate" price="$339.00" />
+                                <Prodct_review_props img={"imagesFile/jewelryimg22.png"} name="Occaecati cupiditate" price="$339.00" />
+                                <Prodct_review_props img={"imagesFile/jewelryimg11.png"} name="Occaecati cupiditate" price="$339.00" />
+                                <Prodct_review_props img={"imagesFile/jewelryimg12.png"} name="Occaecati cupiditate" price="$339.00" />
+                                <Prodct_review_props img={"imagesFile/jewelryimg20.png"} name="Occaecati cupiditate" price="$339.00" />
+                                <Prodct_review_props img={"imagesFile/jewelryimg21.png"} name="Occaecati cupiditate" price="$339.00" />
+                                <Prodct_review_props img={"imagesFile/jewelryimg22.png"} name="Occaecati cupiditate" price="$339.00" />
+                                <Prodct_review_props img={"imagesFile/jewelryimg23.png"} name="Occaecati cupiditate" price="$339.00" />
+                                <Prodct_review_props img={"imagesFile/jewelryimg14.png"} name="Occaecati cupiditate" price="$339.00" />
+                                <Prodct_review_props img={"imagesFile/jewelryimg19.png"} name="Occaecati cupiditate" price="$339.00" />
 
                             </div>
 

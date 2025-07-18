@@ -14,12 +14,6 @@ A live demo of the project is [Available Here](https://react-jewellery-web.verce
 - Well-structured and maintainable CSS for scalable styling  
 - Cross-browser compatibility  
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:  
-
-- You have installed [Node.js](https://nodejs.org/) (version 16 or above recommended)  
-- Access to the internet for fetching dependencies  
 
 ## Installation
 
